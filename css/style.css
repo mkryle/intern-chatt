@@ -1,0 +1,40 @@
+#textruta {
+    position: fixed;
+    top: 100px;
+    left: 440px;
+    height: 400px;
+    width: 400px;
+    overflow: scroll;
+}
+
+#entertext {
+    position: fixed;
+    top: 110px;
+    left: 90px;
+    width: 200px;
+}
+
+#knapp {
+    position: fixed;
+    top: 110px;
+    left: 300px;
+}
+
+#info {
+    position: fixed;
+    top: 500px;
+    left: 440px;
+    font-size: 12px;
+}
+
+#logo {
+    position: fixed;
+    top: 180px;
+    left: 100px;
+}
+
+#text {
+    position: fixed;
+    top: 280px;
+    left: 180px;
+}
